@@ -1,0 +1,10 @@
+streamlit
+streamlit-webrtc
+openai-whisper
+sounddevice
+numpy
+torch
+av
+pydub
+streamlit-audiorec
+matplotlib
